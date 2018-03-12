@@ -1,6 +1,6 @@
 <package>
-  <description brief="A library to update pointcloud in a global cloud">
-  This library provideoud, and to update the status of a tilt scan
+  <description brief="Tilt scan library to update pointcloud in a global cloud">
+  This library provides the funtionality to add and remove pointclouds in a global cloud, and to update the status of a tilt scan
   </description>
   <author>Bilal Wehbe/bilal.wehbe@dfki.de</author>
   <license></license>

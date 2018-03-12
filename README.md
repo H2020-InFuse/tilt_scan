@@ -2,7 +2,7 @@ slam-tilt_scan
 =============
 A library to update pointcloud in a global cloud
 
-This library provideoud, and to update the status of a tilt scan
+This library provides the funtionality to add and remove pointclouds in a global cloud, and to update the status of a tilt scan
 
 License
 -------
