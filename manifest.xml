@@ -1,0 +1,18 @@
+<package>
+  <description brief="A library to update pointcloud in a global cloud">
+  This library provideoud, and to update the status of a tilt scan
+  </description>
+  <author>Bilal Wehbe/bilal.wehbe@dfki.de</author>
+  <license></license>
+  <url>http://</url>
+  <logo>http://</logo>
+  <depend package="base/cmake" />
+  <!--
+   To add any dependencies use the depend tag
+  <depend package="dummy-dependency-0" />
+	...
+  <depend package="dummy-dependency-n-1" />
+  <depend package="dummy-dependency-n" />
+  -->
+  <depend package="base/types" />
+</package>
