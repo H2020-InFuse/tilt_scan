@@ -6,7 +6,7 @@ This library provides the funtionality to add and remove pointclouds in a global
 
 License
 -------
-dummy-license
+BSD 3-Clause License
 
 Installation
 ------------
